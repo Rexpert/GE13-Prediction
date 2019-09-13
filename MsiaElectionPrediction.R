@@ -94,7 +94,7 @@ tidyData[is.na(tidyData)] <- as.integer(0)
 ggplot(tidyData, aes(x = Religion, y = percent, fill = ReligionIssue)) + 
   geom_col(color="black", position = position_dodge2(preserve = "single", padding = 0)) +
   theme_minimal() + 
-  ggtitle("Does Religion Issue Matter?") + 
+  ggtitle("Prioritize Religious Issues?") + 
   theme(plot.title = element_text(hjust = 0.5, size = 30))
 
 # ----------pieChart------------------------------------------------------------
