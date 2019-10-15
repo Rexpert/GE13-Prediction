@@ -3,7 +3,7 @@
 Data Visualization for pooling before Malaysia's General Election 14 (GE14)  
 
 ## Introduction
-GE14 is the turning point in Malaysia politics, which the Pakatan Harapan (PH) take the central control of Malaysia. In this practice, I'm analyzing the data collected from CeTMA UUM, which filled by respondent from every state of Malaysia. The data is about the pre-election survey.
+GE14 is the turning point in Malaysia politics, which the Pakatan Harapan (PH) take the central control of Malaysia. In this practice, I'm analyzing the data collected from CeTMA UUM, which filled by respondents from each state of Malaysia. This data is about the pre-election survey.
 
 ## Main Objective:
 1. To predict the GE14's result from pre-election survey
